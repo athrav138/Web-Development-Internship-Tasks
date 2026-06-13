@@ -1,0 +1,45 @@
+
+
+Live Website Link - https://careerforge-colleges-discovery-web.vercel.app/
+
+GitHub link  - https://github.com/athrav138/CareerForge-Colleges-Discovery-Web-Application.git
+
+Demo Video - https://youtu.be/WUPI4H_7ie4
+
+
+
+# CareerForge – College Discovery Web Application
+
+## Project Description
+
+CareerForge is a full-stack Education Technology (EdTech) web application designed to help students discover, explore, and compare colleges through a centralized digital platform. The application provides an intuitive and responsive user experience, making the college search process simpler and more organized.
+
+The website includes essential sections such as **Home**, **About**, **Services/Features**, and **Contact**, along with additional educational content and interactive features. It enables users to access college information, explore educational opportunities, and make informed academic decisions.
+
+### Technologies & Infrastructure
+
+* **Frontend:** Modern responsive web interface
+* **Backend:** Managed server-side application services
+* **Database:** Neon PostgreSQL (Cloud Database)
+* **Deployment:** Vercel Cloud Platform
+* **Architecture:** Full-Stack Web Application
+
+### Key Features
+
+* College discovery and exploration
+* Responsive design for all devices
+* User-friendly navigation
+* Cloud-based deployment
+* Scalable database infrastructure
+* Educational resource platform
+
+### Project Objective
+
+The goal of CareerForge is to simplify the college selection process by providing students with a single platform to discover and explore higher education opportunities.
+
+### Relevance to the Task
+
+This project fulfills the website creation objective by presenting a complete, professionally structured educational platform with multiple sections, real-world functionality, cloud deployment, and AI-assisted development practices. It demonstrates the practical application of modern web technologies and AI-supported development workflows in building a real-world solution.
+
+**Domain:** Education Technology (EdTech)
+**Status:** Fully Deployed and Accessible Online
